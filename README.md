@@ -1,1 +1,1 @@
-# AWS-CLI-LIbrary
+# AWS-CLI-Library
